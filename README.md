@@ -1,1 +1,41 @@
 # table-mini-monitor
+
+
+## 11/1/2025 7 PM - Formulation of the idea and Starting the code !!  
+
+I was just sitting browsing some sensors online when  the oled caught my eye, and I wanted a table clock to check the time and  date without having to turn on my screen all the time, and I also wanted a temperature monitor for my room so I thought why not make something that may help many people so i came up with the idea for this mini monitor,
+
+
+I just started the code and have decided on which libraries to use.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--aa0965aa8e8bdcd6b19aa2da5a8b46ede785196e/image.png)
+  
+
+## 11/1/2025 9 PM - Finished the code !! & started on the 3d model !  
+
+I just completed writing and compiling the code to make sure it works, I have made 15 cool animations as screen savers so when you leave you table you can just go to that page and it will sync different animations avoiding oled burns, 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--6d25417a7934d057d29eda0585130a0ab74ade09/image.png)
+
+I also started working on a 3d model and sketching a blueprint on how how everything goes together 
+
+  
+
+## 11/1/2025 10 PM - Finished the 3d model and the blue print !!  
+
+I just completed the 3d model of the table monitor, I just put together how components will be placed on a breadboard and how much footprint they will consume, everything will be on top of the breadboard. Now I will move on to the schematics of the project!
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--28a007f278defe035d685ee4bfbfab18da8375a5/image.png)![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--a9d3a67b9ca0a9c1ab7bc53a705f29e0733541d3/image.png)![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--0d53ac9616d462a9c12c21073dcab79104542671/image.png)
+
+
+
+
+
+Here is the blueprint sketch of the 3d model!!!
+
+![Screenshot 2025-11-01 211730](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--77fde6cf5efa7a3eec5e3b30a8a8e9ccdf407c4b/Screenshot%202025-11-01%20211730.png)  
+
+## 11/1/2025 11 PM - finished the schematics   
+
+completed the schematics finally, I have put in all the SDA and SCL in the same one as it should work like that and the fixed I²C address wont allow to do it in other pins unless I get a multiplexer, so i have resorted to this for now ! ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--6bf39fb7b7ab1c6308fe2fc1fee4b2233d36a727/image.png)
+  
