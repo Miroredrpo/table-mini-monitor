@@ -40,3 +40,8 @@ Here is the blueprint sketch of the 3d model!!!
 
 ![Screenshot 2025-11-01 211730](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--77fde6cf5efa7a3eec5e3b30a8a8e9ccdf407c4b/Screenshot%202025-11-01%20211730.png)  
 
+## 11/1/2025 11 PM - finished the schematics   
+
+completed the schematics finally, I have put in all the SDA and SCL in the same one as it should work like that and the fixed I²C address wont allow to do it in other pins unless I get a multiplexer, so i have resorted to this for now ! ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--6bf39fb7b7ab1c6308fe2fc1fee4b2233d36a727/image.png)
+  
+
