@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 11/1/2025 - Formulation of the idea and Starting the code !!  
+## 11/1/2025 7 PM - Formulation of the idea and Starting the code !!  
 
 I was just sitting browsing some sensors online when  the oled caught my eye, and I wanted a table clock to check the time and  date without having to turn on my screen all the time, and I also wanted a temperature monitor for my room so I thought why not make something that may help many people so i came up with the idea for this mini monitor,
 
@@ -14,5 +14,15 @@ I was just sitting browsing some sensors online when  the oled caught my eye, an
 I just started the code and have decided on which libraries to use.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--aa0965aa8e8bdcd6b19aa2da5a8b46ede785196e/image.png)
+  
+
+## 11/1/2025 9 PM - Finished the code !! & started on the 3d model !  
+
+I just completed writing and compiling the code to make sure it works, I have made 15 cool animations as screen savers so when you leave you table you can just go to that page and it will sync different animations avoiding oled burns, 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--6d25417a7934d057d29eda0585130a0ab74ade09/image.png)
+
+I also started working on a 3d model and sketching a blueprint on how how everything goes together 
+
   
 
