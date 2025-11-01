@@ -26,3 +26,17 @@ I also started working on a 3d model and sketching a blueprint on how how everyt
 
   
 
+## 11/1/2025 10 PM - Finished the 3d model and the blue print !!  
+
+I just completed the 3d model of the table monitor, I just put together how components will be placed on a breadboard and how much footprint they will consume, everything will be on top of the breadboard. Now I will move on to the schematics of the project!
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--28a007f278defe035d685ee4bfbfab18da8375a5/image.png)![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--a9d3a67b9ca0a9c1ab7bc53a705f29e0733541d3/image.png)![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--0d53ac9616d462a9c12c21073dcab79104542671/image.png)
+
+
+
+
+
+Here is the blueprint sketch of the 3d model!!!
+
+![Screenshot 2025-11-01 211730](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--77fde6cf5efa7a3eec5e3b30a8a8e9ccdf407c4b/Screenshot%202025-11-01%20211730.png)  
+
