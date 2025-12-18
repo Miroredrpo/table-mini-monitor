@@ -55,6 +55,12 @@ add please feel free, also update me about any cool additions as i am also very 
 
 <img width="1909" height="1029" alt="image" src="https://github.com/user-attachments/assets/f9c99c26-01b0-4310-bdb5-ccd5139200e1" />
 
+## Case 
+
+I made a case for the breadboard to sit in so that it doesnot fall apart during use
+
+<img width="886" height="373" alt="screenshot-2025-12-18_23-18-41" src="https://github.com/user-attachments/assets/45438415-fda0-40c0-b6f2-671ce3c4b833" />
+
 
 
 
