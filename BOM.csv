@@ -1,15 +1,12 @@
-Component name,"	Unit Price",qty,Subtotal
-DS3231 Clock Module,300,1,300
-Arduino Uno R3 Clone,900,1,900
-Breadboard Normal MB 102,250,1,250
-Tactile Switch Button Cap/Push Button Switch Cover,5,2,10
-Reset Switch Medium Head,5,2,10
-Temperature And Humidity Sensor Module High Precision Humidity Sensor AHT20 Probe,320,1,320
-0.96 inch Oled Display,650,1,650
-,,,"TOTAL (NPR, without shipping) = 2440"
-,,,"TOTAL (USD, without shipping) = 18$"
-,,,"TOTAL (USD, with shipping) = 23$"
-
-
-
-
+Component name,	Unit Price,qty,Subtotal,Link
+DS3231 Clock Module,470,1,470,https://www.daraz.com.np//products/i100404060-s1020706130.html?spm=a2o42.cart.0.0.493b6af7FkYeQU&urlFlag=true
+"Arduino UNO R3 SMD
+",1000,1,1000,https://www.daraz.com.np//products/i133707292-s1055334172.html?spm=a2o42.cart.0.0.493b6af7FkYeQU&urlFlag=true
+Breadboard Normal MB 102,728,1,728,https://www.daraz.com.np//products/i184992791-s1223246803.html?spm=a2o42.cart.0.0.493b6af7FkYeQU&urlFlag=true
+Tactile Switch Button Cap/Push Button Switch Cover,70,1,70,https://www.daraz.com.np//products/i125778933-s1136575587.html?spm=a2o42.cart.0.0.493b6af7FkYeQU&urlFlag=true
+Reset Switch Medium Head,110,1,110,https://www.daraz.com.np//products/i113193344-s1030768969.html?spm=a2o42.cart.0.0.493b6af7FkYeQU&urlFlag=true
+Temperature And Humidity Sensor Module High Precision Humidity Sensor AHT20 Probe,555,1,555,https://www.daraz.com.np//products/i125252979-s1033998588.html?spm=a2o42.cart.0.0.493b6af7FkYeQU&urlFlag=true
+0.96 inch Oled Display,700,1,700,https://www.daraz.com.np//products/i125454102-s1222875573.html?spm=a2o42.cart.0.0.493b6af7FkYeQU&urlFlag=true
+,,,"TOTAL (NPR, without shipping) = 3632",
+,,,"TOTAL (USD, without shipping) = 25.35$",
+,,,"TOTAL (USD, with shipping) = 28$",
